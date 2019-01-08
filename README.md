@@ -48,8 +48,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CV2](https://github.com/kjw0612/awesome-deep-vision)
 - [CV-People](Awesome-People-in-Computer-Vision)
 - Research Topics
-
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
+    - [Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition)
     - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
     - Object Tracking
         - [Multi-Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
