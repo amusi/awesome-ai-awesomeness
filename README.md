@@ -72,13 +72,18 @@ If you want to contribute to this list (please do), send me a pull request.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 - [nlp-reading-group](https://github.com/clulab/nlp-reading-group)
-- [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)：中文自然语言处理相关资料
+- [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP): 中文自然语言处理相关资料
 - [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 
 <a name="RT"></a>
 # Research Topics
 
-  - [GAN](https://github.com/nightrome/really-awesome-gan)
+  - GAN
+      - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+      - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+      - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+      - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+      - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
   - [Transfer Learning](https://github.com/jindongwang/transferlearning)
   - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
   - [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
