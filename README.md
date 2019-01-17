@@ -56,6 +56,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Pose estimation](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
         - [Human Pose estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+    - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
