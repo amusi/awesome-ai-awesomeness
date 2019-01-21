@@ -85,6 +85,7 @@ If you want to contribute to this list (please do), send me a pull request.
       - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
       - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
       - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
+- [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
   - [Transfer Learning](https://github.com/jindongwang/transferlearning)
   - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
   - [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
