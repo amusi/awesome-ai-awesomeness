@@ -54,7 +54,9 @@ If you want to contribute to this list (please do), send me a pull request.
     - Object Tracking
         - [Multi-Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
     - [Pose estimation](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
-        - [Human Pose estimation](https://github.com/cbsudux/awesome-human-pose-estimation)
+        - Human Pose estimation
+          - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
+          - [Human Pose estimation 2](https://github.com/wangzheallen/awesome-human-pose-estimation)
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
     - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
@@ -85,14 +87,18 @@ If you want to contribute to this list (please do), send me a pull request.
       - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
       - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
       - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
+
+- [SLAM](https://github.com/kanster/awesome-slam)
+  - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
+
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
-  - [Transfer Learning](https://github.com/jindongwang/transferlearning)
-  - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
-  - [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
-  - [Meta-Learning](https://github.com/dragen1860/awesome-meta-learning)
-  - [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
-  - [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
-  - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+- [Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
+- [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
+- [Meta-Learning](https://github.com/dragen1860/awesome-meta-learning)
+- [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
+- [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 
 <a name="PL"></a>
 # Programming Languages
