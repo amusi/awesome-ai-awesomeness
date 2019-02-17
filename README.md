@@ -59,7 +59,9 @@ If you want to contribute to this list (please do), send me a pull request.
           - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
           - [Human Pose estimation 2](https://github.com/wangzheallen/awesome-human-pose-estimation)
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
-    - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
+    - Scene Text
+        - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+        - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
