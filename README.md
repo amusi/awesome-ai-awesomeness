@@ -90,10 +90,8 @@ If you want to contribute to this list (please do), send me a pull request.
       - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
       - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
       - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
-
 - [SLAM](https://github.com/kanster/awesome-slam)
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
-
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
@@ -102,6 +100,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
 - [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
+- [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 
 <a name="PL"></a>
 # Programming Languages
