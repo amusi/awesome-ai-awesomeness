@@ -68,6 +68,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
     - [Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
     - [Lane Detection](https://github.com/amusi/awesome-lane-detection)
+    - [Image Retrieval](https://github.com/lgbwust/awesome-image-retrieval-papers)
 
 <a name="NLP"></a>
 # Natural Language Processing(NLP)
