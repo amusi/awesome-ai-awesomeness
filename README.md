@@ -63,6 +63,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - Scene Text
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
+    - [OCR](https://github.com/kba/awesome-ocr)
     - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
