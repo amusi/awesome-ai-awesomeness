@@ -32,6 +32,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [ML-CN](https://github.com/jobbole/awesome-machine-learning-cn)
 - [Adversarial-ML](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 - [Quantum-ML](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
+- [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 <a name="DL"></a>
 # Deep Learning(DL)
