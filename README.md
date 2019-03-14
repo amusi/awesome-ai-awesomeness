@@ -13,7 +13,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Deep Learning(DL)](#DL)
 - [Computer Vision(CV)](#CV)
 - [Natural Language Processing(NLP)](#NLP)
-- [Research Topics](#RT)
+- [Speech Recognition](#SR)
+- [Other Research Topics](#ORT)
 - [Programming Languages](#PL)
 - [Framework](#Framework)
 
@@ -87,8 +88,16 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP): 中文自然语言处理相关资料
 - [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 
-<a name="RT"></a>
-# Research Topics
+<a name="SR"></a>
+
+# Speech Recognition
+
+- [speech_recognition](https://github.com/Uberi/speech_recognition)
+- [awesome-speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+
+<a name="ORT"></a>
+
+# Other Research Topics
 
   - GAN
       - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
