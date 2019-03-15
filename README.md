@@ -51,6 +51,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CV-People](Awesome-People-in-Computer-Vision)
 - Research Topics
     - [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
+        - [imgclsmob](https://github.com/osmr/imgclsmob)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
     - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
     - [Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition)
