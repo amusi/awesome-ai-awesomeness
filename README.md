@@ -65,6 +65,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
     - Scene Text
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
+        - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - [OCR](https://github.com/kba/awesome-ocr)
     - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
