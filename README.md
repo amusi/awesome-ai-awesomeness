@@ -68,7 +68,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - [OCR](https://github.com/kba/awesome-ocr)
-    - [Re-ID](https://github.com/cupwater/awesome-person-ReID)
+    - Re-ID
+        - [Person Re-ID](https://github.com/bismex/Awesome-person-re-identification)
+        - [Vehicle Re-ID](https://github.com/knwng/awesome-vehicle-re-identification)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
     - [Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
