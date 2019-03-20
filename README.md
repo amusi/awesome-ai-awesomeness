@@ -76,8 +76,10 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Image Retrieval](https://github.com/lgbwust/awesome-image-retrieval-papers)
     - [Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+    - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 
 <a name="NLP"></a>
+
 # Natural Language Processing(NLP)
 
 - [NLP](https://github.com/keon/awesome-nlp)
