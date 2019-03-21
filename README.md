@@ -79,6 +79,9 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+    - Image Denoising
+        - [reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+        - [Image-Denoising-State-of-the-art](https://github.com/flyywh/Image-Denoising-State-of-the-art)
 
 <a name="NLP"></a>
 
