@@ -54,7 +54,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [imgclsmob](https://github.com/osmr/imgclsmob)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
     - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
-    - [Face Detection](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+    - Face
+        - [Face Detection & Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
+        - [awesome-face](https://github.com/polarisZhao/awesome-face)
     - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
     - [Object Tracking](https://github.com/foolwood/benchmark_results)
         - [Multi-Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
