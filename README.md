@@ -131,6 +131,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+- [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 
 <a name="PL"></a>
 
