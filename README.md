@@ -42,6 +42,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [DL-Papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [DL-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+- [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 
 <a name="CV"></a>
 # Computer Vision(CV)
