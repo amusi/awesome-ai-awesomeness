@@ -136,6 +136,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
+- [Robotics](https://github.com/kiloreux/awesome-robotics)
 
 <a name="PL"></a>
 
