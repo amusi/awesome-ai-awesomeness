@@ -78,7 +78,9 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
     - [Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
     - [Lane Detection](https://github.com/amusi/awesome-lane-detection)
-    - [Image Retrieval](https://github.com/lgbwust/awesome-image-retrieval-papers)
+    - Image Retrieval
+        - [Awesome image retrieval papers (1)](https://github.com/willard-yuan/awesome-cbir-papers)
+        - [Awesome image retrieval papers (2)](https://github.com/lgbwust/awesome-image-retrieval-papers)
     - [Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
