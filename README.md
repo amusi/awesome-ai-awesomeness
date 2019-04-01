@@ -137,6 +137,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
+- [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 
 <a name="PL"></a>
 
