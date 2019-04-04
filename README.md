@@ -115,6 +115,8 @@ If you want to contribute to this list (please do), send me a pull request.
 
 # Other Research Topics
 
+- [Capsule Networks](https://github.com/sekwiatkowski/awesome-capsule-networks)
+
   - GAN
       - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
       - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
