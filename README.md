@@ -64,7 +64,9 @@ If you want to contribute to this list (please do), send me a pull request.
     - Face
         - [Face Detection & Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
         - [awesome-face](https://github.com/polarisZhao/awesome-face)
-    - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+    - Image Segmentation
+        - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+        - [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X)
     - [Object Tracking](https://github.com/foolwood/benchmark_results)
         - [Multi-Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
     - [Pose estimation](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
