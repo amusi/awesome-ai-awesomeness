@@ -47,8 +47,10 @@ If you want to contribute to this list (please do), send me a pull request.
 - [DL-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
+- [DNN Compression and Acceleration](https://github.com/MingSun-Tse/EfficientDNNs)
 
 <a name="CV"></a>
+
 # Computer Vision(CV)
 
 - [CV](https://github.com/jbhuang0604/awesome-computer-vision)
