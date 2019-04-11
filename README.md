@@ -90,7 +90,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Awesome image retrieval papers (1)](https://github.com/willard-yuan/awesome-cbir-papers)
         - [Awesome image retrieval papers (2)](https://github.com/lgbwust/awesome-image-retrieval-papers)
     - [Medical Imaging](https://github.com/fepegar/awesome-medical-imaging)
+        - [Medical Data](https://github.com/beamandrew/medical-data)
+        - [Medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+        - [Deep Learning for Medical Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
     - Image Denoising
         - [reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
