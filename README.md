@@ -37,6 +37,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Quantum-ML](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
 - [Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [Machine Learning System](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 
 <a name="DL"></a>
 
@@ -48,6 +49,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 - [Deep-Learning-in-Production](https://github.com/ahkarami/Deep-Learning-in-Production)
 - [DNN Compression and Acceleration](https://github.com/MingSun-Tse/EfficientDNNs)
+- [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 
 <a name="CV"></a>
 
@@ -99,6 +101,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
         - [Image-Denoising-State-of-the-art](https://github.com/flyywh/Image-Denoising-State-of-the-art)
     - [Image to Image](https://github.com/lzhbrian/image-to-image-papers)
+    - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
 
 <a name="NLP"></a>
 
