@@ -150,6 +150,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
+     - [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
