@@ -38,6 +38,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning)
 - [Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Machine Learning System](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
+- [Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 
 <a name="DL"></a>
 
