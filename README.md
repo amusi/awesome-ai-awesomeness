@@ -98,6 +98,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
         - [Deep Learning for Medical Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+    - [Image Dehazing](https://github.com/youngguncho/awesome-dehazing)
     - Image Denoising
         - [reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
         - [Image-Denoising-State-of-the-art](https://github.com/flyywh/Image-Denoising-State-of-the-art)
@@ -141,6 +142,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [SLAM](https://github.com/kanster/awesome-slam)
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
   - [SLAM(Chinese)](https://github.com/YiChenCityU/Recent_SLAM_Research)
+  - [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
