@@ -155,6 +155,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
 - [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
+- [Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
 
 <a name="PL"></a>
 
