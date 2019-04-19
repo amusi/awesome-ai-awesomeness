@@ -133,17 +133,17 @@ If you want to contribute to this list (please do), send me a pull request.
 # Other Research Topics
 
 - [Capsule Networks](https://github.com/sekwiatkowski/awesome-capsule-networks)
-
-  - GAN
-      - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
-      - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
-      - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
-      - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
-      - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
+- GAN
+  - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+  - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
+  - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
+  - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
+  - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
 - [SLAM](https://github.com/kanster/awesome-slam)
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
   - [SLAM(Chinese)](https://github.com/YiChenCityU/Recent_SLAM_Research)
   - [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
+- [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
