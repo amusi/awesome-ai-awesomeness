@@ -82,6 +82,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
         - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
+    - Super Resolution
+        - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
     - [OCR](https://github.com/kba/awesome-ocr)
     - Re-ID
         - [Person Re-ID](https://github.com/bismex/Awesome-person-re-identification)
