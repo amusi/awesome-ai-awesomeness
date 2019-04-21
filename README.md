@@ -84,6 +84,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
     - Super Resolution
         - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
+    - 3D
+        - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) 
+
     - [OCR](https://github.com/kba/awesome-ocr)
     - Re-ID
         - [Person Re-ID](https://github.com/bismex/Awesome-person-re-identification)
