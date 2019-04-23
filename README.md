@@ -149,6 +149,7 @@ If you want to contribute to this list (please do), send me a pull request.
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
   - [SLAM(Chinese)](https://github.com/YiChenCityU/Recent_SLAM_Research)
   - [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
+- [NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
