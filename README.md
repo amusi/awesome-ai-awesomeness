@@ -167,6 +167,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
 - [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
 - [Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+- [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
 
 <a name="PL"></a>
 
