@@ -160,6 +160,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
+     - [AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
      - [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
