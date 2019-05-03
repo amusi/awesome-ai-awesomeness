@@ -59,6 +59,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CV](https://github.com/jbhuang0604/awesome-computer-vision)
 - [CV2](https://github.com/kjw0612/awesome-deep-vision)
 - [CV-People](Awesome-People-in-Computer-Vision)
+- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 - Research Topics
     - [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
         - [imgclsmob](https://github.com/osmr/imgclsmob)
@@ -146,9 +147,12 @@ If you want to contribute to this list (please do), send me a pull request.
   - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
   - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
 - [SLAM](https://github.com/kanster/awesome-slam)
+  - [SLAM List](https://github.com/OpenSLAM/awesome-SLAM-list)
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
   - [SLAM(Chinese)](https://github.com/YiChenCityU/Recent_SLAM_Research)
   - [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
+  - [SFM-Visual-SLAM](https://github.com/marknabil/SFM-Visual-SLAM)
+  - [SLAM Resources](https://github.com/ckddls1321/SLAM_Resources)
 - [NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
