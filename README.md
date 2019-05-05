@@ -88,7 +88,6 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
     - 3D
         - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) 
-
     - [OCR](https://github.com/kba/awesome-ocr)
     - Re-ID
         - [Person Re-ID](https://github.com/bismex/Awesome-person-re-identification)
@@ -112,6 +111,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Image-Denoising-State-of-the-art](https://github.com/flyywh/Image-Denoising-State-of-the-art)
     - [Image to Image](https://github.com/lzhbrian/image-to-image-papers)
     - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+    - [Edge Detection](<https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers>)
 
 <a name="NLP"></a>
 
