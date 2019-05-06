@@ -180,6 +180,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 - [Affective_Computing](https://github.com/suzana-ilic/Deep_Learning_Affective_Computing)
 - [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- [Click-Through Rate Prediction](https://github.com/shenweichen/DeepCTR)
 
 <a name="PL"></a>
 
