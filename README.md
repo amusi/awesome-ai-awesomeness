@@ -162,6 +162,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
      - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
+     - [Reinforcement Learning Chinese](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)：中文整理的强化学习资料
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
 - [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
