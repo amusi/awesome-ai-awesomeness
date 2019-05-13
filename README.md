@@ -117,6 +117,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - Salience
         - [Salient Object Detection(SOD)](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
         - [Saliency Detection & Segmentation](https://github.com/lartpang/awesome-segmentation-saliency-dataset#another-awesome-dataset-list)
+    - [Fashion + AI](https://github.com/lzhbrian/Cool-Fashion-Papers)
 
 <a name="NLP"></a>
 
