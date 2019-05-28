@@ -40,6 +40,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Machine Learning System](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 - [Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 - [Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+- [Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 
 <a name="DL"></a>
 
