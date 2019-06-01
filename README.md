@@ -88,6 +88,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
         - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
+        - [Text Detection and Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
     - Super Resolution
         - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
     - 3D
