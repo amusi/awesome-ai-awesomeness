@@ -181,6 +181,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
      - [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+     - [Neural Network Pruning](https://github.com/he-y/Awesome-Pruning)
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
 - [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
