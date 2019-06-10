@@ -17,6 +17,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Other Research Topics](#ORT)
 - [Programming Languages](#PL)
 - [Framework](#Framework)
+- [Datasets](#Datasets)
 
 <a name="AI"></a>
 
@@ -219,3 +220,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Caffe](https://github.com/MichaelXin/Awesome-Caffe)
 - [Torch](https://github.com/carpedm20/awesome-torch)
 - [Chainer](awesome-chainer)
+
+<a name="Datasets"></a>
+
+# Datasets
+
+- [Segmentation & Saliency detection](https://github.com/lartpang/awesome-segmentation-saliency-dataset)
