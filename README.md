@@ -177,6 +177,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
+     - [AutoML Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey)
      - [AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
      - [NAS](https://github.com/D-X-Y/Awesome-NAS)
      - [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
