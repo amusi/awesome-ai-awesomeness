@@ -173,7 +173,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
 - [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
-- [Meta-Learning](https://github.com/dragen1860/awesome-meta-learning)
+- Meta-Learning
+     - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
+     - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 - [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
 - [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
