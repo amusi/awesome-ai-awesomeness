@@ -55,6 +55,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [DNN Compression and Acceleration](https://github.com/MingSun-Tse/EfficientDNNs)
 - [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 - [Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+- [Real-time Network](https://github.com/wpf535236337/real-time-network)
 
 <a name="CV"></a>
 
