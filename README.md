@@ -94,6 +94,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Scene Text Detection and Recognition](https://github.com/Jyouhou/SceneTextPapers)
         - [Text Detection and Recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
     - Super Resolution
+        - [Super Resolution (ChaofWang)](https://github.com/ChaofWang/Awesome-Super-Resolution)
+        - [Super Resolution (ptkin)](<https://github.com/ptkin/Awesome-Super-Resolution>)
+        - [Image Super Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
         - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
     - 3D
         - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) 
