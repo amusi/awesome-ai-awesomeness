@@ -82,7 +82,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Panoptic Segmentation](https://github.com/Angzz/awesome-panoptic-segmentation)
         - [Weakly Supervised Semantic Segmentation](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
     - [Object Tracking](https://github.com/foolwood/benchmark_results)
+        - [Visual Tracking1](https://github.com/foolwood/benchmark_results)
+        - [Visual Tracking2](https://github.com/czla/daily-paper-visual-tracking)
         - [Multi-Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-list)
+        - [Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
     - [Pose estimation](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
         - Human Pose estimation
           - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
