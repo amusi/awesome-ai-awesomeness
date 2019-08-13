@@ -228,6 +228,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
   - [TensorFlow From Zero To- One](https://github.com/amusi/TensorFlow-From-Zero-To-One)
 - [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list)
+  - [PyTorch From Zero To- One](https://github.com/amusi/PyTorch-From-Zero-To-One)
 - [Keras](https://github.com/fchollet/keras-resources)
 - [MXNet](https://github.com/chinakook/Awesome-MXNet)
 - [Caffe](https://github.com/MichaelXin/Awesome-Caffe)
