@@ -195,6 +195,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
      - [NAS](https://github.com/D-X-Y/Awesome-NAS)
      - [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
+     - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 - [Model Compression](https://github.com/cedrickchee/awesome-ml-model-compression)
      - [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
