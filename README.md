@@ -210,6 +210,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Affective_Computing](https://github.com/suzana-ilic/Deep_Learning_Affective_Computing)
 - [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 - [Click-Through Rate Prediction](https://github.com/shenweichen/DeepCTR)
+- [VAE](https://github.com/matthewvowels1/Awesome-VAEs)
 
 <a name="PL"></a>
 
