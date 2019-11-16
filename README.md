@@ -107,7 +107,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) 
     - [OCR](https://github.com/kba/awesome-ocr)
     - Re-ID
-        - [Person Re-ID](https://github.com/bismex/Awesome-person-re-identification)
+        - [Person Re-ID(1)](https://github.com/bismex/Awesome-person-re-identification)
+        - [Person Re-ID(2)](https://github.com/FDU-VTS/Awesome-Person-Re-Identification)
         - [Vehicle Re-ID](https://github.com/knwng/awesome-vehicle-re-identification)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
