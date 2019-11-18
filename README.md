@@ -110,6 +110,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Person Re-ID(1)](https://github.com/bismex/Awesome-person-re-identification)
         - [Person Re-ID(2)](https://github.com/FDU-VTS/Awesome-Person-Re-Identification)
         - [Vehicle Re-ID](https://github.com/knwng/awesome-vehicle-re-identification)
+    - [Pedestrian Attribute Recognition](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
     - [Crowd Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
