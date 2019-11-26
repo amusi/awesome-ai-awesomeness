@@ -212,7 +212,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
 - [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
 - [Affective_Computing](https://github.com/suzana-ilic/Deep_Learning_Affective_Computing)
-- [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
+- Knowledge Distillation
+     - [Knowledge Distillation(dkozlov)](https://github.com/dkozlov/awesome-knowledge-distillation)
+     - [Knowledge Distillation(FLHonker)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 - [Click-Through Rate Prediction](https://github.com/shenweichen/DeepCTR)
 - [VAE](https://github.com/matthewvowels1/Awesome-VAEs)
 
