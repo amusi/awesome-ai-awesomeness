@@ -132,6 +132,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Image to Image](https://github.com/lzhbrian/image-to-image-papers)
     - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
     - [Edge Detection](<https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers>)
+    - [Local and Global Descriptor](https://github.com/shamangary/awesome-local-global-descriptor)
     - Salience
         - [Salient Object Detection(SOD)](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
         - [Saliency Detection & Segmentation](https://github.com/lartpang/awesome-segmentation-saliency-dataset#another-awesome-dataset-list)
