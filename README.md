@@ -191,7 +191,9 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Reinforcement Learning Chinese](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)：中文整理的强化学习资料
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
-- [Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
+- Few-Shot Learning
+     - [Duan-JM/Few-Shot Learning](https://github.com/Duan-JM/awesome-papers-fewshot)
+     - [e-271/Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
 - Meta-Learning
      - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
      - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
