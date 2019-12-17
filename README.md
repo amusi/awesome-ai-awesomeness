@@ -213,7 +213,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
 - [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
-- [Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+- Autonomous Vehicles
+     - [Autonomous Vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles)
+     - [Autonomous Vehicles-CH]( https://github.com/DeepTecher/awesome-autonomous-vehicle )
      - [Lidar Point cloud processing for Autonomous Driving](https://github.com/beedotkiran/Lidar_For_AD_references)
 - [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
 - [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
