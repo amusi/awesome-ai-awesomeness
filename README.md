@@ -133,6 +133,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Image/Video Deblurring]( https://github.com/subeeshvasu/Awesome-Deblurring )
     - [Image to Image](https://github.com/lzhbrian/image-to-image-papers)
     - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
+    - [Video Object Segmentation(VOS)](https://github.com/du0915/Video-Object-Segmentation-Paper-List)
     - [Edge Detection](<https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers>)
     - [Local and Global Descriptor](https://github.com/shamangary/awesome-local-global-descriptor)
     - Salience
