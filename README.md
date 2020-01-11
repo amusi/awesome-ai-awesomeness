@@ -64,6 +64,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CV](https://github.com/jbhuang0604/awesome-computer-vision)
 - [CV2](https://github.com/kjw0612/awesome-deep-vision)
 - [CV-People](Awesome-People-in-Computer-Vision)
+- [DeepFakes](https://github.com/datamllab/awesome-deepfakes-materials)
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 - Research Topics
     - [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
