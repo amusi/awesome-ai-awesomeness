@@ -68,6 +68,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
 - Research Topics
     - [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
+    - [Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
     - [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
         - [imgclsmob](https://github.com/osmr/imgclsmob)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
