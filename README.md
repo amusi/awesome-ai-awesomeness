@@ -133,7 +133,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Image and Video Denoising](https://github.com/z-bingo/awesome-image-denoising-state-of-the-art)
     - [Image Deraining](https://github.com/nnUyi/DerainZoo)
     - [Image/Video Deblurring]( https://github.com/subeeshvasu/Awesome-Deblurring )
-    - [Image to Image](https://github.com/lzhbrian/image-to-image-papers)
+    - Image to Image
+        - [lzhbrian/Image to Image](https://github.com/lzhbrian/image-to-image-papers)
+        - [xiaweihao/Image to Image](https://github.com/xiaweihao/awesome-image-translation)
     - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
     - [Video Object Segmentation(VOS)](https://github.com/du0915/Video-Object-Segmentation-Paper-List)
     - [Edge Detection](<https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers>)
