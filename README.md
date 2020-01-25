@@ -203,7 +203,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
      - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 - [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
-- [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+- [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
      - [AutoML Survey](https://github.com/DataSystemsGroupUT/AutoML_Survey)
