@@ -42,6 +42,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Mobile Machine Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 - [Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [Gradient Boosting](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+- [Decision Tree](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 
 <a name="DL"></a>
 
@@ -94,6 +95,7 @@ If you want to contribute to this list (please do), send me a pull request.
           - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
           - [Human Pose estimation 2](https://github.com/wangzheallen/awesome-human-pose-estimation)
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+    - [Human Motion](https://github.com/derikon/awesome-human-motion)
     - Scene Text
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
         - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
