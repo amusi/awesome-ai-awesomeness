@@ -85,6 +85,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X)
         - [Panoptic Segmentation](https://github.com/Angzz/awesome-panoptic-segmentation)
         - [Weakly Supervised Semantic Segmentation](https://github.com/JackieZhangdx/WeakSupervisedSegmentationList)
+        - [Referring Image Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
     - [Object Tracking](https://github.com/foolwood/benchmark_results)
         - [Visual Tracking1](https://github.com/foolwood/benchmark_results)
         - [Visual Tracking2](https://github.com/czla/daily-paper-visual-tracking)
