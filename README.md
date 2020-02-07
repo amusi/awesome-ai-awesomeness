@@ -198,6 +198,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
      - [Reinforcement Learning Chinese](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)：中文整理的强化学习资料
 - [Transfer Learning](https://github.com/jindongwang/transferlearning)
+- [Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 - [Zero-Shot Learning](https://github.com/chichilicious/awesome-zero-shot-learning)
 - Few-Shot Learning
      - [Duan-JM/Few-Shot Learning](https://github.com/Duan-JM/awesome-papers-fewshot)
