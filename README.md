@@ -57,6 +57,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Architecture Search](https://github.com/markdtw/awesome-architecture-search)
 - [Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 - [Real-time Network](https://github.com/wpf535236337/real-time-network)
+- [Deep Learning Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
 
 <a name="CV"></a>
 
