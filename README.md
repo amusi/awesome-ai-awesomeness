@@ -132,6 +132,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Medical imaging datasets](https://github.com/sfikas/medical-imaging-datasets)
         - [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
         - [Deep Learning for Medical Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
+        - [Medical Image Segmentation](https://github.com/JunMa11/SOTA-MedSeg) 
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
     - [Image Dehazing](https://github.com/youngguncho/awesome-dehazing)
     - Image Denoising
