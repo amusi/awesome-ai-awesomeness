@@ -227,6 +227,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [EfficientDNNs](https://github.com/MingSun-Tse/EfficientDNNs)
      - [Model Compression and Acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
      - [Neural Network Pruning](https://github.com/he-y/Awesome-Pruning)
+- [Binary Neural Networks](https://github.com/michaeltinsley/awesome-binary-neural-networks) 
 -  [Multimodal Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 -  [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
