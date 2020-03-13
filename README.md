@@ -73,6 +73,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
     - [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
         - [imgclsmob](https://github.com/osmr/imgclsmob)
+    - [Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
     - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
     - Face
