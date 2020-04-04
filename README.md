@@ -76,6 +76,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
     - [Object Detection](https://github.com/amusi/awesome-object-detection)
     - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
+    - [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
     - Face
         - [Face Detection & Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
         - [awesome-face](https://github.com/polarisZhao/awesome-face)
