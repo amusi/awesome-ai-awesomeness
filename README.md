@@ -216,7 +216,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - Meta-Learning
      - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
      - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
-- [Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
+- Self-Supervised
+     - [jason718/Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
+     - [Sungman-Cho/Self-Supervised]( https://github.com/Sungman-Cho/Awesome-Self-Supervised-Papers )
 - [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 - [Incremental Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 - [AutoML](https://github.com/hibayesian/awesome-automl-papers)
