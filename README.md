@@ -216,6 +216,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - Meta-Learning
      - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
      - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
+- [Open Set Recognition](https://github.com/iCGY96/awesome_OpenSetRecognition_list)
 - Self-Supervised
      - [jason718/Self-Supervised](https://github.com/jason718/awesome-self-supervised-learning)
      - [Sungman-Cho/Self-Supervised]( https://github.com/Sungman-Cho/Awesome-Self-Supervised-Papers )
