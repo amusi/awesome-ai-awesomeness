@@ -120,7 +120,8 @@ If you want to contribute to this list (please do), send me a pull request.
     - Re-ID
         - [Person Re-ID(1)](https://github.com/bismex/Awesome-person-re-identification)
         - [Person Re-ID(2)](https://github.com/FDU-VTS/Awesome-Person-Re-Identification)
-        - [Vehicle Re-ID](https://github.com/knwng/awesome-vehicle-re-identification)
+        - [Vehicle Re-ID(1)](https://github.com/layumi/Vehicle_reID-Collection)
+        - [Vehicle Re-ID(2)](https://github.com/knwng/awesome-vehicle-re-identification)
     - [Pedestrian Attribute Recognition](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)
     - [Image Captioning](https://github.com/zhjohnchan/awesome-image-captioning)
     - [Question Answering](https://github.com/dapurv5/awesome-question-answering)
