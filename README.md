@@ -253,6 +253,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Knowledge Distillation(FLHonker)](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 - [Click-Through Rate Prediction](https://github.com/shenweichen/DeepCTR)
 - [VAE](https://github.com/matthewvowels1/Awesome-VAEs)
+- [Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning)
 
 <a name="PL"></a>
 
