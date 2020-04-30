@@ -189,6 +189,8 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Deep Bayesian](https://github.com/otokonoko8/deep-Bayesian-nonparametrics-papers)
 - [Capsule Networks](https://github.com/sekwiatkowski/awesome-capsule-networks)
 - [Data Augmentation](https://github.com/AgaMiko/data-augmentation-review)
+- [Emebedded AI](https://github.com/ysh329/awesome-embedded-ai)
+
 - GAN
   - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
   - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
