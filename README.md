@@ -169,6 +169,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [nlp_course](https://github.com/yandexdataschool/nlp_course)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 - [nlp-reading-group](https://github.com/clulab/nlp-reading-group)
+- [NLP Paper](https://github.com/changwookjun/nlp-paper)
 - [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP): 中文自然语言处理相关资料
 - [awesome-dl4nlp](https://github.com/brianspiering/awesome-dl4nlp)
 - [awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding)
