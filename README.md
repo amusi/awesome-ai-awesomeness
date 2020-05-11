@@ -74,9 +74,13 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
         - [imgclsmob](https://github.com/osmr/imgclsmob)
     - [Image Registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration)
-    - [Object Detection](https://github.com/amusi/awesome-object-detection)
-    - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
-    - [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+    - Object Detection
+        - [amusi/Object Detection](https://github.com/amusi/awesome-object-detection)
+        - [hoya012/Object Detection]( https://github.com/hoya012/deep_learning_object_detection )
+        - [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
+        - [Small Object Detection](https://github.com/tjtum-chenlab/SmallObjectDetectionList)
+        - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
+    - 
     - Face
         - [Face Detection & Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
         - [awesome-face](https://github.com/polarisZhao/awesome-face)
