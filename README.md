@@ -197,7 +197,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Capsule Networks](https://github.com/sekwiatkowski/awesome-capsule-networks)
 - [Data Augmentation](https://github.com/AgaMiko/data-augmentation-review)
 - [Emebedded AI](https://github.com/ysh329/awesome-embedded-ai)
-
 - GAN
   - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
   - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
@@ -246,6 +245,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Binary Neural Networks](https://github.com/michaeltinsley/awesome-binary-neural-networks) 
 -  [Multimodal Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 -  [Multimodal Machine Learning](https://github.com/pliang279/awesome-multimodal-ml)
+- [Neural Rendering](https://github.com/xiaweihao/awesome-neural-rendering) 
 - [Domain Adaptation](https://github.com/zhaoxin94/awsome-domain-adaptation)
 - [Robotics](https://github.com/kiloreux/awesome-robotics)
 - [Recommender Systems](https://github.com/robi56/Deep-Learning-for-Recommendation-Systems)
