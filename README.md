@@ -195,6 +195,7 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Bayesian](https://github.com/dimenwarper/awesome-bayes)
      - [Deep Bayesian](https://github.com/otokonoko8/deep-Bayesian-nonparametrics-papers)
 - [Capsule Networks](https://github.com/sekwiatkowski/awesome-capsule-networks)
+- [Contrastive-Learning](https://github.com/HobbitLong/PyContrast/blob/master/AWESOME_CONTRASTIVE_LEARNING.md)
 - [Data Augmentation](https://github.com/AgaMiko/data-augmentation-review)
 - [Emebedded AI](https://github.com/ysh329/awesome-embedded-ai)
 - GAN
