@@ -211,6 +211,7 @@ If you want to contribute to this list (please do), send me a pull request.
   - [SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets)
   - [SFM-Visual-SLAM](https://github.com/marknabil/SFM-Visual-SLAM)
   - [SLAM Resources](https://github.com/ckddls1321/SLAM_Resources)
+  - [wuxiaolang](https://github.com/wuxiaolang)/[Visual_SLAM_Related_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research)
 - [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
      - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
