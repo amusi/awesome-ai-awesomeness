@@ -204,6 +204,8 @@ If you want to contribute to this list (please do), send me a pull request.
   - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
   - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
   - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
+- [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
+- [Semi-Supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [SLAM](https://github.com/kanster/awesome-slam)
   - [SLAM List](https://github.com/OpenSLAM/awesome-SLAM-list)
   - [VSLAM](https://github.com/tzutalin/awesome-visual-slam)
@@ -212,7 +214,6 @@ If you want to contribute to this list (please do), send me a pull request.
   - [SFM-Visual-SLAM](https://github.com/marknabil/SFM-Visual-SLAM)
   - [SLAM Resources](https://github.com/ckddls1321/SLAM_Resources)
   - [wuxiaolang](https://github.com/wuxiaolang)/[Visual_SLAM_Related_Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research)
-- [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
      - [Implementation of Reinforcement Learning Algorithms](https://github.com/dennybritz/reinforcement-learning)
      - [Reinforcement Learning Chinese](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)：中文整理的强化学习资料
