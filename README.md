@@ -68,6 +68,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CV-People](Awesome-People-in-Computer-Vision)
 - [DeepFakes](https://github.com/datamllab/awesome-deepfakes-materials)
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
+- [Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
 - Research Topics
     - [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition)
     - [Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization)
