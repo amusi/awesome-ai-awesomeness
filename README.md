@@ -108,6 +108,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
     - [Human Motion](https://github.com/derikon/awesome-human-motion)
     - [Human-Object Interaction(HOI)](https://github.com/DirtyHarryLYL/HOI-Learning-List)
+    - [Long-tailed](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
     - Scene Text
         - [Scene Text Localization and Recognition](https://github.com/chongyangtao/Awesome-Scene-Text-Recognition)
         - [Scene Text Localization & Recognition Resources](https://github.com/whitelok/image-text-localization-recognition)
