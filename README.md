@@ -260,7 +260,8 @@ If you want to contribute to this list (please do), send me a pull request.
      - [Autonomous Vehicles-CH]( https://github.com/DeepTecher/awesome-autonomous-vehicle )
      - [Lidar Point cloud processing for Autonomous Driving](https://github.com/beedotkiran/Lidar_For_AD_references)
 - [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
-- [Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+- [Yochengliu/Point Cloud Analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+- [NUAAXQ/Point Cloud Analysis](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2020)
 - [3D Point Clouds](https://github.com/QingyongHu/SoTA-Point-Cloud)
 - [Affective_Computing](https://github.com/suzana-ilic/Deep_Learning_Affective_Computing)
 - Knowledge Distillation
