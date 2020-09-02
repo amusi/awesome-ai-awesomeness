@@ -81,7 +81,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Tiny Object Detection](https://github.com/kuanhungchen/awesome-tiny-object-detection)
         - [Small Object Detection](https://github.com/tjtum-chenlab/SmallObjectDetectionList)
         - [Video Object Detection](https://github.com/huanglianghua/video-detection-paper-list)
-    - 
+        - [Anchor Free Object Detection](https://github.com/XinZhangNLPR/awesome-anchor-free-object-detection)
     - Face
         - [Face Detection & Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition)
         - [awesome-face](https://github.com/polarisZhao/awesome-face)
