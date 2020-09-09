@@ -102,6 +102,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
         - [daily-paper-visual-tracking](https://github.com/czla/daily-paper-visual-tracking) 
     - [Pose estimation](https://github.com/wjbKimberly/pose_estimation_CVPR_ECCV_2018)
+        - [Object Pose Estimation](https://github.com/YoungXIAO13/ObjectPoseEstimationSummary)
         - Human Pose estimation
           - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
           - [Human Pose estimation 2](https://github.com/wangzheallen/awesome-human-pose-estimation)
