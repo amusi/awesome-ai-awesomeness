@@ -230,7 +230,8 @@ If you want to contribute to this list (please do), send me a pull request.
      - [e-271/Few-Shot Learning](https://github.com/e-271/awesome-few-shot-learning)
 - Federated Learning
      - [poga/Federated Learning](https://github.com/poga/awesome-federated-learning)
-     - [Federated Computing/Learning](https://github.com/tushar-semwal/awesome-federated-computing) 
+     - [Federated Computing/Learning](https://github.com/tushar-semwal/awesome-federated-computing)
+     - [ChanChiChoi/Federated Learning](ChaoChiChoi/Federated Learning)
 - Meta-Learning
      - [Meta-Learning1](https://github.com/dragen1860/awesome-meta-learning)
      - [Meta-Learning2](https://github.com/sudharsan13296/Awesome-Meta-Learning)
