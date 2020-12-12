@@ -26,6 +26,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [AI](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [AI-Use-Cases](https://github.com/faktionai/awesome-ai-usecases)
 - [AI residency programs information](https://github.com/ankitshah009/all-about-ai-residency)
+- [Explainable AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI)
 
 <a name="ML"></a>
 
