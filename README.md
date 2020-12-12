@@ -146,7 +146,9 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Deep Learning for Medical Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
         - [Medical Image Segmentation](https://github.com/JunMa11/SOTA-MedSeg) 
     - [Image Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
-    - [Image Dehazing](https://github.com/youngguncho/awesome-dehazing)
+    - Image/Video Dehazing
+        - [awesome-dehazing](https://github.com/youngguncho/awesome-dehazing)
+        - [DehazeZoo](https://github.com/cxtalk/DehazeZoo)
     - Image Denoising
         - [reproducible-image-denoising-state-of-the-art](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
         - [Image-Denoising-State-of-the-art](https://github.com/flyywh/Image-Denoising-State-of-the-art)
