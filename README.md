@@ -209,7 +209,8 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Contrastive-Learning](https://github.com/HobbitLong/PyContrast/blob/master/AWESOME_CONTRASTIVE_LEARNING.md)
 - [Data Augmentation](https://github.com/AgaMiko/data-augmentation-review)
 - [Emebedded AI](https://github.com/ysh329/awesome-embedded-ai)
-- GAN
+- GAN(Generative Adversarial Networks)
+  - [GAN-Case-Study](https://github.com/pshams55/GAN-Case-Study)
   - [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
   - [AdversarialNetsPapers](https://github.com/zhangqianhui/AdversarialNetsPapers)
   - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
