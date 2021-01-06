@@ -172,6 +172,10 @@ If you want to contribute to this list (please do), send me a pull request.
         - [RGB-D Salient Object Detection](https://github.com/taozh2017/RGBD-SODsurvey)
     - [Fashion + AI](https://github.com/lzhbrian/Cool-Fashion-Papers)
     - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
+    - Visual Transformer
+        - [Awesome Transformer for Vision Resources List](https://github.com/lijiaman/awesome-transformer-for-vision)
+        - [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+        - [Awesome Visual Representation Learning with Transformers](https://github.com/alohays/awesome-visual-representation-learning-with-transformers)
 
 <a name="NLP"></a>
 
