@@ -222,6 +222,8 @@ If you want to contribute to this list (please do), send me a pull request.
   - [the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
   - [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
   - [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications): Curated list of awesome GAN applications and demo
+  - [image-to-image translation](https://github.com/weihaox/awesome-image-translation)
+  - [GAN Inversion](https://github.com/weihaox/awesome-image-translation/blob/master/awesome-gan-inversion.md)
 - [Graph Neural Networks(GNN)](https://github.com/thunlp/GNNPapers)
 - [Semi-Supervised Learning](https://github.com/yassouali/awesome-semi-supervised-learning)
 - [SLAM](https://github.com/kanster/awesome-slam)
