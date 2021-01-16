@@ -18,6 +18,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Programming Languages](#PL)
 - [Framework](#Framework)
 - [Datasets](#Datasets)
+- [AI Career](#AI Career)
 
 <a name="AI"></a>
 
@@ -323,3 +324,7 @@ If you want to contribute to this list (please do), send me a pull request.
 # Datasets
 
 - [Segmentation & Saliency detection](https://github.com/lartpang/awesome-segmentation-saliency-dataset)
+
+# AI Career
+
+- [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml)
