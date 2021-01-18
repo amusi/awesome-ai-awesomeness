@@ -60,6 +60,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
 - [Real-time Network](https://github.com/wpf535236337/real-time-network)
 - [Deep Learning Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
+- [Graph-based Deep Learning](https://github.com/naganandy/graph-based-deep-learning-literature)
 
 <a name="CV"></a>
 
