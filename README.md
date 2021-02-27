@@ -92,6 +92,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Face Landmark Detection](https://github.com/mrgloom/Face-landmarks-detection-benchmark)
         - [Landmark Detection](https://github.com/D-X-Y/landmark-detection)
     - [Gaze Estimation](https://github.com/WuZhuoran/awesome-gaze)
+    - [HDR Image Synthesis](https://github.com/vinthony/awesome-deep-hdr)
     - Image Segmentation
         - [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
         - [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X)
