@@ -127,7 +127,8 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Image Super Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
         - [Video Super Resolution](https://github.com/LoSealL/VideoSuperResolution)
     - 3D
-        - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list) 
+        - [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
+        - [3D Human Body](https://github.com/3DFaceBody/awesome-3dbody-papers)
     - [OCR](https://github.com/kba/awesome-ocr)
     - Re-ID
         - [Person Re-ID(1)](https://github.com/bismex/Awesome-person-re-identification)
