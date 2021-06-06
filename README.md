@@ -170,6 +170,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - [Video Object Segmentation(VOS)](https://github.com/du0915/Video-Object-Segmentation-Paper-List)
     - [Edge Detection](<https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers>)
     - [Local and Global Descriptor](https://github.com/shamangary/awesome-local-global-descriptor)
+    - [Referring Image Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
     - Salience
         - [Salient Object Detection(SOD)](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
         - [Saliency Detection & Segmentation](https://github.com/lartpang/awesome-segmentation-saliency-dataset#another-awesome-dataset-list)
