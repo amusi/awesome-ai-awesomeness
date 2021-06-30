@@ -91,6 +91,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Facial Expression Recognition (FER)](https://github.com/EvelynFan/AWESOME-FER)
         - [Face Landmark Detection](https://github.com/mrgloom/Face-landmarks-detection-benchmark)
         - [Landmark Detection](https://github.com/D-X-Y/landmark-detection)
+        - [Face Anti-spoofing](https://github.com/ZitongYu/DeepFAS)
     - [Gaze Estimation](https://github.com/WuZhuoran/awesome-gaze)
     - [HDR Image Synthesis](https://github.com/vinthony/awesome-deep-hdr)
     - Image Segmentation
