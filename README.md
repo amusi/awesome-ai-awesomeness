@@ -100,6 +100,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Panoptic Segmentation](https://github.com/Angzz/awesome-panoptic-segmentation)
         - [Weakly Supervised Semantic Segmentation](https://github.com/YimingCuiCuiCui/awesome-weakly-supervised-segmentation)
         - [Referring Image Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
+        - [Semi Supervised Learning for Medical Image Segmentation](https://github.com/HiLab-git/SSL4MIS)
     - [Object Tracking](https://github.com/foolwood/benchmark_results)
         - [Visual Tracking1](https://github.com/foolwood/benchmark_results)
         - [Visual Tracking2](https://github.com/czla/daily-paper-visual-tracking)
