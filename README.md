@@ -167,6 +167,7 @@ If you want to contribute to this list (please do), send me a pull request.
     - Image to Image(img2img)
         - [lzhbrian/Image to Image](https://github.com/lzhbrian/image-to-image-papers)
         - [xiaweihao/Image to Image](https://github.com/xiaweihao/awesome-image-translation)
+    - [Multi-View Stereo(MVS)](https://github.com/XYZ-qiyh/Awesome-Learning-MVS)
     - [Underwater Image Enhancement](https://github.com/cxtalk/Awesome-Underwater-Image-Enhancement)
     - [Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
     - [Video Object Segmentation(VOS)](https://github.com/du0915/Video-Object-Segmentation-Paper-List)
