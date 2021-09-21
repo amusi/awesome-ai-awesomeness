@@ -178,6 +178,7 @@ If you want to contribute to this list (please do), send me a pull request.
         - [Salient Object Detection(SOD)](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
         - [Saliency Detection & Segmentation](https://github.com/lartpang/awesome-segmentation-saliency-dataset#another-awesome-dataset-list)
         - [RGB-D Salient Object Detection](https://github.com/taozh2017/RGBD-SODsurvey)
+    - [Self-Supervised Learning in Medical Imaging](https://github.com/SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging)
     - [Fashion + AI](https://github.com/lzhbrian/Cool-Fashion-Papers)
     - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)
     - [Video Stabilization](https://github.com/yaochih/awesome-video-stabilization)
