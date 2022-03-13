@@ -114,6 +114,7 @@ If you want to contribute to this list (please do), send me a pull request.
           - [Human Pose estimation 1](https://github.com/cbsudux/awesome-human-pose-estimation)
           - [Human Pose estimation 2](https://github.com/wangzheallen/awesome-human-pose-estimation)
         - [Hand Pose estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+        - [6D Object Pose Estimation](https://github.com/ZhongqunZHANG/awesome-6d-object)
     - [Human Motion](https://github.com/derikon/awesome-human-motion)
     - [Human-Object Interaction(HOI)](https://github.com/DirtyHarryLYL/HOI-Learning-List)
     - [Long-tailed](https://github.com/zwzhang121/Awesome-of-Long-Tailed-Recognition)
